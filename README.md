@@ -25,8 +25,7 @@ Adaptive and fast-learning developer with a problem solving attitude and a passi
 <a href="https://github.com/Mauro2888/Mauro2888">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/Mauro2888/Mauro2888">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mauro2888&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mauro's GitHub Stats" />
+<a href="https://github.com/Mauro2888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
    
 ### Socials
@@ -39,4 +38,3 @@ Adaptive and fast-learning developer with a problem solving attitude and a passi
 
 <a href="http://www.github.com/Mauro2888"><img src="https://github-readme-stats.vercel.app/api?username=Mauro2888&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mauro2888's GitHub stats" /></a>
 
-<a href="https://github.com/Mauro2888" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

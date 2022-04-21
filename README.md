@@ -4,7 +4,7 @@ Hi 👋 My name is Mauro
 Java Developer
 --------------
 
-Adaptive and fast-learning developer with a problem solving attitude and a passion for mobile and integration development.
+Adaptive and fast-learning developer with passion for mobile,integration and backend development.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [mauro.dev88@gmail.com](mailto:mauro.dev88@gmail.com)

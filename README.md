@@ -1,4 +1,4 @@
-Hi 👋 My name is Mauro Caredda
+Hi 👋 My name is Mauro
 ==============================
 
 Java Developer

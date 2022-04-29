@@ -1,10 +1,10 @@
-Hi 👋 My name is Mauro
+Hi 👋 
 ==============================
 
 Java Developer
 --------------
 
-Adaptive and fast-learning developer with passion for mobile,integration and backend development.
+My name is Mauro fast-learning java developer with passion for mobile,integration and backend development.
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [mauro.dev88@gmail.com](mailto:mauro.dev88@gmail.com)

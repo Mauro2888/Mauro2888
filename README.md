@@ -1,9 +1,6 @@
 Hi 👋 
 ==============================
 
-Java Developer
---------------
-
 My name is Mauro fast-learning java developer with passion for mobile,integration and backend development.
 
 * 🌍  I'm based in Italy

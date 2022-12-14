@@ -17,7 +17,7 @@ My name is Mauro fast-learning java developer with passion for mobile,integratio
 <!--![](https://img.shields.io/badge/Tools-Kubernetes-informational\Portainer\Swarm?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)-->
 ## &#x1f4c8; GitHub Stats
 ```markdown
-![](https://komarev.com/ghpvc/?username=mauro2888&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=Mauro2888&style=flat-square&color=green)
 ```
 
 <a href="https://github.com/Mauro2888/Mauro2888">

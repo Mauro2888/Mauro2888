@@ -18,7 +18,10 @@ My name is Mauro fast-learning java developer with passion for mobile,integratio
 <p align="left"> <img
 src="https://komarev.com/ghpvc/?
 username=mauro2888&label=Profile:20views&color=0e75b6&style=
-flat" alt="mauro" /> </p>
+flat" alt="mauro" /> 
+![](https://komarev.com/ghpvc/?username=mauro2888)
+
+</p>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Mauro2888/Mauro2888">

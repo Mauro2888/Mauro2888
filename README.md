@@ -19,7 +19,6 @@ My name is Mauro fast-learning java developer with passion for mobile,integratio
 ```markdown
 ![](https://komarev.com/ghpvc/?username=Mauro2888&style=flat-square&color=green)
 ```
-
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mauro2888&style=for-the-badge">
 </a>

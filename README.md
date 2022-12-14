@@ -20,6 +20,9 @@ My name is Mauro fast-learning java developer with passion for mobile,integratio
 ![](https://komarev.com/ghpvc/?username=Mauro2888&style=flat-square&color=green)
 ```
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Mauro2888&style=for-the-badge">
+</a>
 <a href="https://github.com/Mauro2888/Mauro2888">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&hide=javascript,css,html,php,tex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=3" />
 </a>

@@ -17,7 +17,7 @@ My name is Mauro fast-learning java developer with passion for mobile,integratio
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Mauro2888/Mauro2888">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&hide=javascript,css,html,php,tex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro2888&hide=javascript,css,html,php,tex&title_color=0891b2&hide_rank=true&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=3" />
 </a>
 
 <a href="https://github.com/Mauro2888/Mauro2888">
